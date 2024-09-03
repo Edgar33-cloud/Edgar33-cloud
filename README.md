@@ -13,8 +13,8 @@
 <h2>🤳Connect with me:</h2>
 
 
-[<img align="left" alt=“Edgar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=“Edgar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="edgarcas33 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="edgar-castrejon-8314371a4 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/edgarcas33
-[linkedin]: https://linkedin.com/in/http://linkedin.com/in/edgar-castrejon-8314371a4
+[linkedin]: https://linkedin.com/in/edgar-castrejon-8314371a4
