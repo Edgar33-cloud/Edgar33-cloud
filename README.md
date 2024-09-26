@@ -7,6 +7,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/edgararturocastrejon/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/edgararturocastrejon/configure-ad)
+  - [Enabling and Unlocking Accounts and Restting Passwords](https://github.com/edgararturocastrejon/managing-ad-accounts)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/edgararturocastrejon/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
