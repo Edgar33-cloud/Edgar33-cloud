@@ -8,7 +8,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/edgararturocastrejon/configure-ad)
   - [Enabling and Unlocking Accounts and Resetting Passwords](https://github.com/edgararturocastrejon/managing-ad-accounts)
-  - [Understanding DNS in Azure](https://github.com/edgararturocastrejon/understandingdns)
+  - [Understanding DNS in Azure](https://github.com/edgararturocastrejon/understaningdns)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/edgararturocastrejon/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
